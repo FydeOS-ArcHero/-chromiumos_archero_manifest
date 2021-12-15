@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/FydeOS-ArcHero" />
+
+  <project path="src/overlays/overlay-samus-archero" name="overlay-samus-archero" groups="minilayout,firmware" revision="refs/heads/r92" />
+  <project path="src/overlays/project-archero" name="project-archero" groups="minilayout,firmware" revision="refs/heads/r92" />
+</manifest>
