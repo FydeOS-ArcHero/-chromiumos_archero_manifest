@@ -4,5 +4,5 @@
   <remote name="fydeos" fetch="ssh://git@gitlab.fydeos.xyz" />
 
   <project path="src/overlays/overlay-samus-archero" name="overlay-samus-archero" remote="github" groups="minilayout,firmware" revision="refs/heads/r92" />
-  <project path="src/overlays/project-archero" name="project-archero" remote="fydeos" groups="minilayout,firmware" revision="refs/heads/r92" />
+  <project path="src/overlays/project-archero" name="fydeos-overlays/project-archero" remote="fydeos" groups="minilayout,firmware" revision="refs/heads/r92" />
 </manifest>
